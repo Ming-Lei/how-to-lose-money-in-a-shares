@@ -1,4 +1,6 @@
 {
+    "title": "大A股小白生存指北",
+    "description": "怎么优雅地在股市里亏钱",
     "plugins": [ "ga" ],
     "pluginsConfig": {
       "ga": {

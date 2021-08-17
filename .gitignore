@@ -1,4 +1,7 @@
 src/_book
+src/node_modules
+*.pdf
+*.epub
 
 .DS_Store
 count.rb
