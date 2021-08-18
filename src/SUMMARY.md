@@ -3,7 +3,7 @@
 * [序言](README.md)
 
 * [0. 我该拿什么态度面对投资](chapter-0/README.md)
-    * [0.1 估值小游戏:邻家阿妈的杂货铺](chapter-0/section1.md)
+    * [0.1 估值小游戏：邻居阿婆的杂货铺](chapter-0/section1.md)
     * [0.2 我能挣多少](chapter-0/section2.md)
     * [0.3 我能接受亏多少](chapter-0/section3.md)
     * [0.4 本金不够，杠杆来凑？](chapter-0/section4.md)
