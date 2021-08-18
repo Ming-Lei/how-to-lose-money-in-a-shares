@@ -2,12 +2,12 @@
 
 * [序言](README.md)
 
-* [0.我该拿什么态度面对投资](chapter-0/README.md)
+* [0. 我该拿什么态度面对投资](chapter-0/README.md)
     * [0.1 估值小游戏:邻家阿妈的杂货铺](chapter-0/section1.md)
     * [0.2 我能挣多少](chapter-0/section2.md)
     * [0.3 我能接受亏多少](chapter-0/section3.md)
     * [0.4 本金不够，杠杆来凑？](chapter-0/section4.md)
-* [1.大A股真的是一个赌场吗？](chapter-1/README.md)
+* [1. 大A股真的是一个赌场吗？](chapter-1/README.md)
     * [1.1 十年不涨的上证指数](chapter-1/section1.md)
     * [1.2 散户又多又情绪化](chapter-1/section2.md)
     * [1.3 骗子横行，庄家遍地](chapter-1/section3.md)
